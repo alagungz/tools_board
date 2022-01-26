@@ -1,0 +1,24 @@
+Analisis dari tools 
+bagaimana alur/flow penggunaan masing – masing tools ?
+
+trello      : alur cukup mudah digunakan untuk orang awam, ada beberapa fitur yang tidak bisa digunakan karena berbayar
+
+jira         : seperti trello, alur cukup mudah digunakan untuk orang awam karena tampilan ui/ux nya cukup menarik dan simple dan ada fitur roadmap yang cukup untuk bisa memantau alur kerja, dan sebagian ada yang berbayar sehingga untuk fitur lain tidak bisa disebutkan
+
+youtrack : cukup sulit bagi orang awam menggunkan youtrack, walaupun ada tutorial demo penggunaannya, namun untuk step by step cukup sulit bagi yang tidak terbiasa, tampilan ui/ux cukup sulit untuk orang awam.
+
+Kelebihan 
+trello       : tampilan ui/ux clean,  mudah digunakan 
+jira          : tampilan ui/ux clean, mudah digunakan, fitur dalam beberapa hal lebih lengkap dari trello
+youtrack : beberapa fitur cukup menarrik
+
+kekurangan : 
+trello       : sistem report kurang lengkap
+jira          : ada di sudut tertentu ux nya agak aneh
+youtrack : tampilannya cukup sulit untuk orang awam.
+
+Memilih dan alasan
+saya lebih memilih Jira dari pada 2 kempetitor lain karena dari segi alur, ui/ux dan fitur lebih baik dari pada yang lain.
+
+Pilihan untuk yang di gunakan pada refactory ?
+Pilihan yang digunakan atau mungkin lebih tepatnya untuk refactory, dari saya pribadi mungkin lebih ke jira dan trello dari segi tampilan ui/ux, tapi saya belum tahu beberapa fitur lain di apps dari refactory apakah seperti jira dan trello, dan untuk pengembangan refactory mungkin saya lebih menyarankan pada jira, karena jira lebih sederhana di tampilan dan fitur lengkap untuk menunjang progress kompleks.
